@@ -1,0 +1,29 @@
+nav {
+    font: 16px bold;
+}
+
+nav.app-nav li {
+    min-width: 30px;
+    margin-right: 20px;
+}
+
+nav.app-nav li ul {
+    min-width: 100px;
+}
+
+aside {
+    margin-left: 30px;
+}
+
+aside .sidebar-nav ul li p{
+    color: #96b97d;
+}
+
+aside .sidebar-nav ul li a {
+    padding: 0;
+}
+
+section.cover.has-mask .mask{
+    opacity:.1;
+}
+
