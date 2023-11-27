@@ -15,15 +15,15 @@
 </head>
 
 <body>
-  <nav>
-  </nav>
+  <!-- <nav>
+  </nav> -->
   <div id="app">loading...</div>
 
   <script>
     window.$docsify = {
 
       topMargin: 50, // default: 0
-      name: 'Docsify 说明书',
+      name: 'Docsify Instruction',
       themeColor: "",
       // noCompileLinks: ['/foo', '/bar/.*'],
       // 主题色
@@ -39,10 +39,15 @@
       // mergeNavbar: true,
 
       // 避免不必要的回退
-      alias: {
-        '/.*/_sidebar.md': '/_sidebar.md'
-      },
+      // alias: {
+      //   '/.*/_sidebar.md': '/_sidebar.md',
+      //   '/docsify_en/(.*)': '/docsify_en/'
+      // },
 
+      // coverpage: true,
+      // coverpage: ['/', '/docsify_en/'],
+
+      // noCompileLinks: ['/_media', '/bar/.*'],
 
       // 加载 summary.md
       // loadSidebar: '_sidebar.md',
@@ -96,7 +101,7 @@
 
   <!-- 搜索 -->
   <script src="/_plugins/search.min.js"></script>
-
+  <script src="//cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
 </body>
 
 </html>
