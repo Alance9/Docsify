@@ -150,7 +150,7 @@ The authentication information has been submitted, and the staff will review it 
 
 
 ```
-After the code update is pushed, click Update to redeploy.
+After the code update is pushed, click Update to redeploy (Ctrl + F5, force refresh).
 Click Close to close the URL service.
 ```
 
