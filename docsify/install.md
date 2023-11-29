@@ -1,5 +1,6 @@
+<!-- 入门 -->
 
-> ###  1、安装 Node.js 
+> ###  1. 安装 Node.js 
 
 Docsify 依赖于 node.js，下载安装：https://nodejs.org/en
 
@@ -18,7 +19,7 @@ C:\Users\Z>npm -v
 9.6.7
 ```
 
-> ### 2、安装 Docsify
+> ### 2. 安装 Docsify
 
 勾选 NodeJs 安装目录下的所有权限（安全-完全控制），管理员身份运行 CMD，全局安装
 
@@ -26,7 +27,7 @@ C:\Users\Z>npm -v
 npm i docsify-cli -g
 ```
 
-> ### 3、初始化 docsify
+> ### 3. 初始化 docsify
 
 初始化，创建 docs 目录及默认文件
 
@@ -40,9 +41,9 @@ docsify init docs
 Initialization succeeded! Please run docsify serve docs
 ```
 
-> ### 4、运行 docsify
+> ### 4. 运行 docsify
 
-`docsify serve ` 启动本地服务器
+`docsify serve` 启动本地服务器，热重载可调试
 
 ```
 docsify serve docs
@@ -51,4 +52,5 @@ Serving C:\Users\Z\docs now.
 Listening at http://localhost:3000
 ```
 
-![启动页面](../_media/index.png)
+![启动页面](../_media/_resources/index.png ':size=70%')
+

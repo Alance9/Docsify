@@ -2,14 +2,16 @@
 
 * Dosify 入门
 
-    * [入门](docsify/install.md)
-    * [目录结构](docsify/structure.md)
-    * [主页文件](test/guide)
-    * [侧边栏](test/guide)
-    * [导航栏](test/guide)
-    * [搜索框](test/guide)
-    * [常用插件](test/guide)
-    * [主题切换](test/guide)
-    * [本地化](test/guide)
-    * [打包部署](test/guide)
-    * [自定义设置](docsify/style.md)
+    * [入门](docsify/install)
+    * [项目架构](docsify/structure)
+    * [封面页](docsify/home)
+    * [主文件](docsify/pages)
+    * [侧边栏](docsify/side)
+    * [导航栏](docsify/nav)
+    * [搜索框](docsify/search)
+    * [本地化](docsify/localize)
+    * [远程部署](docsify/deploy)
+    * [常用插件](docsify/plugins)
+    <!-- * [主题切换](docsify/guide) -->
+    * [表情符号](docsify/emo)
+    * [自定义设置](docsify/style)

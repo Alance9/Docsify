@@ -1,8 +1,9 @@
 <!-- 自定义设置 -->
 
-> ###  1. 自定义封面
+> ###  1. Customize the Cover
 
-`_coverpage.md` 定义首页内容，可替换自定义封面，默认为随机渐变
+ `_coverpage.md` Define the content of the homepage, which can replace the custom cover, and the default is a random gradient.
+
 
 ```_coverpage.md 
 <!-- 首页 -->
@@ -22,7 +23,8 @@
 
 ```
 
-> 封面透明度设置
+> Cover transparency settings
+
 
 ```style.css
 section.cover.has-mask .mask{
@@ -30,40 +32,43 @@ section.cover.has-mask .mask{
 }
 ```
 
-> ###  2. 自定义主题色
+> ###  2. Customize the Accent Color
 
-`themeColor` 默认主题色为 `#42b983`
+ `themeColor` The default accent color is `#42b983`
+
 
 ```index.html
 window.$docsify = {
-    // 主题色
+    // theme color
     themeColor: "#96b97d"
 }
 ```
 
-> ###  3. 其他设置
+> ###  3. Other Settings
+
 
 ```index.html
 window.$docsify = {
-    // 目录标题
+    // title of the catalog
     name: 'Docsify',
 
-    // 自定义目录级别
+    // custom Catalog Level
     subMaxLevel: 3,
     
-    // 加载侧边栏
+    // load sidebar
     loadSidebar: true,
 
-    // 加载顶部导航栏
+    // load the top navigation bar
     loadNavbar: true,
 
-    // 开启渲染封面
+    // enable rendering cover
     coverpage: true,
 }
 ```
 
+
 ```style.css
-<!-- 自定义样式 -->
+<!-- customize the style -->
 
 nav {
     font: 16px bold;

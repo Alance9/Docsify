@@ -23,8 +23,7 @@
     window.$docsify = {
 
       topMargin: 50, // default: 0
-      name: 'Docsify Instruction',
-      themeColor: "",
+      name: 'Docsify',
       // noCompileLinks: ['/foo', '/bar/.*'],
       // 主题色
       themeColor: "#96b97d",
@@ -33,7 +32,7 @@
 
       // 自定义目录级别
       subMaxLevel: 3,
-      // 总目录
+      // 加载侧边栏
       loadSidebar: true,
       // autoHeader: true,
       // mergeNavbar: true,
@@ -61,12 +60,35 @@
       // 只在访问主页时加载封面
       onlyCover: false,
 
+      // 自定义搜索
+      search: {
+        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+        placeholder: 'Type to search',
+
+        // 支持本地化
+        placeholder: {
+          '/docsify_en/': 'Type to search',
+          '/': '搜索'
+        },
+
+        noData: 'No Results!',
+
+        // 支持本地化
+        noData: {
+          '/docsify_en/': 'No Results',
+          '/': '找不到结果'
+        },
+
+        // 搜索标题的最大层级, 1 - 6
+        depth: 6,
+      },
+
       plugins: [
         function (hook) {
           var footer = [
             '<hr/>',
             '<footer>',
-            '<span><a href=""></a> &copy; 07/27/2023. </span>',
+            '<span><a href=""></a> &copy; 2023. </span>',
             '<span> By Alance</a>.</span>',
             '</footer>'
           ].join('');
@@ -81,7 +103,6 @@
 
   <script src="./_plugins/docsify-copy-code.min.js"></script>
   <!-- <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script> -->
-
 
   <!-- Docsify v4 -->
   <script src="./_plugins/docsify.min.js"></script>
@@ -101,7 +122,7 @@
 
   <!-- 搜索 -->
   <script src="./_plugins/search.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+  <script src="./_plugins/docsify-pagination.min.js"></script>
 </body>
 
 </html>
