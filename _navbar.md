@@ -6,7 +6,10 @@
 
 * [首页](/ "首页")
 
-* Language
+<!-- * Language
   * [:uk: English](/docsify_en/README.md "English")
-  * [:cn: 简体中文](/README.md "Chinese")
+  * [:cn: 简体中文](/README.md "Chinese") -->
 
+* Language
+  * [English](/docsify_en/README.md "English")
+  * [简体中文](/README.md "Chinese")
