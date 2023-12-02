@@ -3,7 +3,7 @@
 
 > Docsify Framework to Build a Lightweight Static Website
 
-> It can be applied to blog system, personal resume, product manual and strategy guide.
+> It can be applied to blog system, CV, product manual and strategy guide.
 
 > Like building blocks, use a variety of optional plug-ins to quickly build a personalized blog.
 
