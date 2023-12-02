@@ -1,6 +1,6 @@
-* 🌻 Quickly Build a Blog System
+* 🌻 Quickly build a blog system
 
-* Getting Started With Dosify
+* Getting started with dosify
 
     * [Getting Started](docsify_en/install)
     * [Project Structure](docsify_en/structure)
