@@ -20,6 +20,9 @@ window.$docsify = {
 # Title 1
 ## Title 2
 ### Title 3
+
+<!-- Ignore the subtitle -->
+# Title 1 <!-- {docsify-ignore-all} -->
 ```
 
 ?> The sidebar default file name is _sidebar.md

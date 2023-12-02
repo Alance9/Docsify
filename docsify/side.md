@@ -19,6 +19,9 @@ window.$docsify = {
 # Title 1
 ## Title 2
 ### Title 3
+
+<!-- 忽略副标题 -->
+# Title 1 <!-- {docsify-ignore-all} -->
 ```
 
 ?> 侧边栏默认文件名 _sidebar.md
