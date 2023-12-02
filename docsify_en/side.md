@@ -21,7 +21,9 @@ window.$docsify = {
 ## Title 2
 ### Title 3
 
-<!-- Ignore the subtitle -->
+<!-- Ignore specific subtitle -->
+# Title 1 <!-- {docsify-ignore} -->
+<!-- Ignore all subtitle -->
 # Title 1 <!-- {docsify-ignore-all} -->
 ```
 

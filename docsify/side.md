@@ -20,7 +20,9 @@ window.$docsify = {
 ## Title 2
 ### Title 3
 
-<!-- 忽略副标题 -->
+<!-- 忽略特定副标题 -->
+# Title 1 <!-- {docsify-ignore} -->
+<!-- 忽略所有副标题 -->
 # Title 1 <!-- {docsify-ignore-all} -->
 ```
 
