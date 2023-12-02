@@ -20,7 +20,7 @@ nav.app-nav a.active {
     border-bottom: none;
 }
 
-aside {
+.sidebar-nav {
     margin-left: 30px;
 }
 
