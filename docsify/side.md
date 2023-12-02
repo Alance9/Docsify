@@ -13,6 +13,14 @@ window.$docsify = {
 }
 ```
 
+```MD
+<!-- subMaxLevel 设置为3，侧边栏可自动获取 1-3 级的副标题 -->
+
+# Title 1
+## Title 2
+### Title 3
+```
+
 ?> 侧边栏默认文件名 _sidebar.md
 
 ```docsifyBlog/_sidebar.md 

@@ -14,6 +14,14 @@ window.$docsify = {
 }
 ```
 
+```MD
+<!-- subMaxLevel Set to 3，the sidebar can automatically get subtitles for levels 1-3 -->
+
+# Title 1
+## Title 2
+### Title 3
+```
+
 ?> The sidebar default file name is _sidebar.md
 
 
