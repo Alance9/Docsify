@@ -7,4 +7,4 @@
 
 > Like building blocks, use a variety of optional plug-ins to quickly build a personalized blog.
 
-🐹 Follow the doctrine of borrowing, respect the wisdom of our predecessors, be able to use ready-made wheels, and never write by hand. ![Parrot Shake](../_media/_resources/parrot.gif ':size=30×30')
+Follow the doctrine of borrowing, respect the wisdom of our predecessors, be able to use ready-made wheels, and never write by hand. ![Parrot Shake](../_media/_resources/parrot.gif ':size=30×30')
