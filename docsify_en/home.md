@@ -31,6 +31,8 @@ window.$docsify = {
 <!-- 替换封面 -->
 ![bg](_media/云朵与羊群-新1.png)
 
+<!-- 设置背景色 -->
+![color](#f0f0f0)
 ```
 
 > ### 2. Cover Transparency Settings

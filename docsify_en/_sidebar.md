@@ -1,9 +1,9 @@
-* 🌻 Quickly build a blog system
+* 🌻 Quickly Build a Blog System
 
-* Getting started with Dosify
+* Getting Started With Dosify
 
-    * [Getting started](docsify_en/install)
-    * [Project structure](docsify_en/structure)
+    * [Getting Started](docsify_en/install)
+    * [Project Structure](docsify_en/structure)
     * [Home Page](docsify_en/home)
     * [Main Page](docsify_en/pages)
     * [Sidebar](docsify_en/side)
@@ -11,8 +11,8 @@
     * [Search](docsify_en/search)
     * [Localization](docsify_en/localize)
     * [Remote Deploy](docsify_en/deploy)
-    * [Common plug-ins](docsify_en/plugins)
+    * [Common Plug-ins](docsify_en/plugins)
     <!-- * [Topic Switch](docsify_en/style) -->
-    * [emoji](docsify_en/emo)
-    * [Custom setting](docsify_en/style)
+    * [Emoji](docsify_en/emo)
+    * [Custom Setting](docsify_en/style)
 
