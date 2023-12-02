@@ -120,4 +120,7 @@ Tab 保持其他内容与列表齐列（四个空格）
 ':id=id'
 ':class=class'
 
+锚点
+- [test](#test)
+<span id="test">123</span>
 ```

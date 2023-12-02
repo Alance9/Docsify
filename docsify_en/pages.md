@@ -122,4 +122,7 @@ Set picture id, class
 ':id=id'
 ':class=class'
 
+Anchors
+- [test](#test)
+<span id="test">123</span>
 ```
