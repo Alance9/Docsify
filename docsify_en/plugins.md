@@ -29,8 +29,7 @@ See specifically [Emojis](/docsify/emo.md)
 
 > ### 4. Paginated Navigation
 
-![分页脚注](../_media/_resources/分页脚注.png)
-
+![分页脚注](../_media/_resources/分页脚注1.png)
 
 ```index.html
 <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
