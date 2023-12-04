@@ -54,6 +54,12 @@ window.$docsify = {
 }
 ```
 
-> ### 6. 其他插件
+> ### 6. 图片缩放
+
+```index.html
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+```
+
+> ### 7. 其他插件
 
 具体见 [Docsify Plugins](https://docsify.js.org/#/awesome?id=plugins)

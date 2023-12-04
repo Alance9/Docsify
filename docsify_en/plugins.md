@@ -59,6 +59,12 @@ window.$docsify = {
 }
 ```
 
-> ### 6. Other Plugins
+> ### 6. Image Scaling
+
+```index.html
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+```
+
+> ### 7. Other Plugins
 
 See specifically [Docsify Plugins](https://docsify.js.org/#/awesome?id=plugins)
