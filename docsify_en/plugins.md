@@ -2,7 +2,7 @@
 
 > ### 1. search
 
-See specifically [搜索栏](/docsify/search)
+See specifically [Search](/docsify/search)
 
 
 ```index.html
@@ -20,7 +20,7 @@ The code bar provides a copy function `Click to copy`
 
 > ### 3. Emojis
 
-See specifically [表情符号](/docsify/emo.md)
+See specifically [Emojis](/docsify/emo.md)
 
 
 ```index.html
