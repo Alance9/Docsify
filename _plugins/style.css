@@ -15,10 +15,15 @@ nav.app-nav a {
     color: var(--homeColor);
 }
 
-/* nav.app-nav a.active {
-    color: #34495e;
+nav.app-nav a:hover {
+    color: #96b97d;
+}
+
+
+nav.app-nav a.active {
+    color: var(--homeColor);
     border-bottom: none;
-} */
+}
 
 .sidebar-nav {
     margin-left: 30px;
