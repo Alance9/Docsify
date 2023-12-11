@@ -12,7 +12,7 @@ nav.app-nav li ul {
 }
 
 nav.app-nav a {
-    color: #34495e;
+    color: var(--homeColor);
 }
 
 nav.app-nav a.active {
@@ -24,7 +24,7 @@ nav.app-nav a.active {
     margin-left: 30px;
 }
 
-aside .sidebar-nav ul li p{
+aside .sidebar-nav ul li p {
     color: #96b97d;
 }
 
@@ -32,7 +32,6 @@ aside .sidebar-nav ul li a {
     padding: 0;
 }
 
-section.cover.has-mask .mask{
-    opacity:.1;
+section.cover.has-mask .mask {
+    opacity: .1;
 }
-

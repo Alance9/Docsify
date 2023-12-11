@@ -9,6 +9,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"> -->
   <link rel="stylesheet" href="./_plugins/vue.css">
+  <link rel="stylesheet" href="./_plugins/dark/style.min.css">
   <link rel="stylesheet" href="./_plugins/style.css">
   <style>
   </style>
@@ -81,6 +82,23 @@
 
         // 搜索标题的最大层级, 1 - 6
         depth: 6,
+
+        darklightTheme: {
+          defaultTheme: 'light',
+          // siteFont: 'Source Sans Pro,Helvetica Neue,Arial,sans-serif',
+          // codeFontFamily: 'Roboto Mono, Monaco, courier, monospace',
+          // bodyFontSize: '15px',
+          dark: {
+            // background: 'rgb(28,32,34)', 
+            // highlightColor: '#96b97d',
+            // codeBackgroundColor: 'rgb(34,39,46)',
+            // codeTextColor: '#b4b4b4',
+          },
+          light: {
+            // highlightColor: '#96b97d',
+          }
+        },
+
       },
 
       plugins: [
@@ -124,6 +142,7 @@
   <script src="./_plugins/search.min.js"></script>
   <script src="./_plugins/docsify-pagination.min.js"></script>
   <script src="./_plugins/zoom-image.min.js"></script>
+  <script src="./_plugins/dark/index.min.js"></script>
 </body>
 
 </html>

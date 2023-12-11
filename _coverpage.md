@@ -2,11 +2,11 @@
 
 <!-- ![logo](_media/nya-n.png) -->
 
-# Alance <small>share v1.1.0</small>
 
+# <span style="color:#34495e">Alance <small>share v1.2.0</small></span>
 - 分享编程与测试的经验
 
-# Docsify 使用教程
+# <span style="color:#34495e">Docsify 使用教程</span>
 
 <!-- [GitHub](https://github.com/docsifyjs/docsify/) -->
 [Start Browse →](/README)
