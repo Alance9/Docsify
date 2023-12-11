@@ -15,10 +15,10 @@ nav.app-nav a {
     color: var(--homeColor);
 }
 
-nav.app-nav a.active {
+/* nav.app-nav a.active {
     color: #34495e;
     border-bottom: none;
-}
+} */
 
 .sidebar-nav {
     margin-left: 30px;
