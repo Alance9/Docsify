@@ -5,7 +5,7 @@
 具体见 [搜索栏](/docsify/search)
 
 ```index.html
-script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 ```
 
 > ### 2. Copy 复制
