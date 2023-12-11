@@ -60,6 +60,18 @@ window.$docsify = {
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
 ```
 
-> ### 7. 其他插件
+> ### 7. 夜间主题切换
+
+```index.html
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css">
+<script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
+```
+通过免费素材库，替换图标
+
+阿里素材库：https://www.iconfont.cn/
+
+![夜间主题](../_media/_resources/夜间主题.png ':size=10%')
+
+> ### 8. 其他插件
 
 具体见 [Docsify Plugins](https://docsify.js.org/#/awesome?id=plugins)

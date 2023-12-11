@@ -64,6 +64,19 @@ window.$docsify = {
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
 ```
 
-> ### 7. Other Plugins
+> ### 7. Nighttime Theme Switching
+
+```index.html
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css">
+<script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
+```
+Replace icons through a free material library
+
+Ali free icons：https://www.iconfont.cn/
+
+![夜间主题](../_media/_resources/夜间主题.png ':size=10%')
+
+
+> ### 8. Other Plugins
 
 See specifically [Docsify Plugins](https://docsify.js.org/#/awesome?id=plugins)
