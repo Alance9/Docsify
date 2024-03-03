@@ -3,7 +3,7 @@
 <!-- ![logo](_media/nya-n.png) -->
 
 
-# <span style="color:#34495e">Alance <small>share v1.2.0</small></span>
+# <span style="color:#34495e">Alance <small>share v1.2.1</small></span>
 - 分享编程与测试的经验
 
 # <span style="color:#34495e">Docsify 使用教程</span>
